@@ -1,5 +1,5 @@
-# Summary
+# Table of contents
 
-* [Introduction](README.md)
-* [Chapter 1](chapter1.md)
-* [Chapter 2](chapter2.md)
+* [CARS Lab Projects](README.md)
+* [COLA](chapter1.md)
+* [DKL](chapter2.md)
